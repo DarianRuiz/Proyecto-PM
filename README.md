@@ -1,4 +1,4 @@
-#PC-MAKER
+# PC-MAKER
 
 PC Maker es una pagina web de armado simulado de PC en 3D con calculadora de wattage, precio y un repertorio de componentes con precios reales y sus compatibilidades.
 
