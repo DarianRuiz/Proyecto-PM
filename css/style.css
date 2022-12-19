@@ -217,6 +217,7 @@ button:hover {
   font-size: 40px;
   font-weight: 700;
   line-height: 48px;
+
   color: #303853;
   border-bottom: solid #303853 2px;
 }
@@ -243,7 +244,7 @@ button:hover {
 .container .precio {
   font-weight: 900;
   line-height: 24px;
-  color: #303853;
+  color: #526bbd;
 }
 
 .pedido {
