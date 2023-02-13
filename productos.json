@@ -1,0 +1,161 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "datos": {
+        "Marca": "ReDragon",
+        "Producto": "Teclado",
+        "Nombre": "gamer"
+      }
+    },
+    {
+      "id": "2",
+      "datos": {
+        "Marca": "Razer",
+        "Producto": "Mouse",
+        "Nombre": "BASILISK V3 PRO"
+      }
+    }, {
+      "id": "3",
+      "datos": {
+        "Marca": "VSG",
+        "Producto": "Mouse",
+        "Nombre": "Aurora"
+      }
+    }, {
+      "id": "4",
+      "datos": {
+        "Marca": "VSG",
+        "Producto": "Mouse",
+        "Nombre": "Aquila"
+      }
+    }, {
+      "id": "5",
+      "datos": {
+        "Marca": "VSG",
+        "Producto": "Teclado",
+        "Nombre": "Quasar"
+      }
+    }, {
+      "id": "6",
+      "datos": {
+        "Marca": "Nisuta",
+        "Producto": "Teclado",
+        "Nombre": "nskbgz88"
+      }
+    }, {
+      "id": "7",
+      "datos": {
+        "Marca": "Hyper X",
+        "Producto": "Teclado",
+        "Nombre": "Alloy FPS Core"
+      }
+    },{
+      "id": "8",
+      "datos": {
+        "Marca": "ReDragon",
+        "Producto": "Teclado",
+        "Nombre": "Deimos"
+      }
+    },{
+      "id": "9",
+      "datos": {
+        "Marca": "ReDragon",
+        "Producto": "Teclado",
+        "Nombre": "Kumara"
+      }
+    },{
+      "id": "10",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "Teclado",
+        "Nombre": "G413 SE"
+      }
+    },{
+      "id": "11",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "Teclado",
+        "Nombre": "G915"
+      }
+    },{
+      "id": "12",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "Teclado",
+        "Nombre": "K380"
+      }
+    },{
+      "id": "13",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "MousePad",
+        "Nombre": "G240"
+      }
+    },{
+      "id": "14",
+      "datos": {
+        "Marca": "ReDragon",
+        "Producto": "Headset",
+        "Nombre": "Zeus"
+      }
+    },{
+      "id": "15",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "MousePad",
+        "Nombre": "G240"
+      }
+    },{
+      "id": "16",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "Headset",
+        "Nombre": "G733"
+      }
+    },{
+      "id": "17",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "Mouse",
+        "Nombre": "GPRO"
+      }
+    },{
+      "id": "18",
+      "datos": {
+        "Marca": "Hyper X",
+        "Producto": "Microfono",
+        "Nombre": "Quad" 
+      }
+    },{
+      "id": "19",
+      "datos": {
+        "Marca": "Logitech",
+        "Producto": "Mouse",
+        "Nombre": "G305" 
+      }
+    },{
+      "id": "20",
+      "datos": {
+        "Marca": "Zowie",
+        "Producto": "Monitor",
+        "Nombre": "Rl2455" 
+      }
+    },{
+      "id": "21",
+      "datos": {
+        "Marca": "Zowie",
+        "Producto": "Monitor",
+        "Nombre": "XL2411K  " 
+      }
+    },{
+      "id": "22",
+      "datos": {
+        "Marca": "Hyper X",
+        "Producto": "Mouse",
+        "Nombre": "Pulse Fires" 
+      }
+    }
+    
+  ]
+}
