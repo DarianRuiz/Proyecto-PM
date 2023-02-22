@@ -5,7 +5,8 @@
       "datos": {
         "Marca": "ReDragon",
         "Producto": "Teclado",
-        "Nombre": "gamer"
+        "Nombre": "gamer",
+        "Precio": "--"
       }
     },
     {
@@ -13,149 +14,169 @@
       "datos": {
         "Marca": "Razer",
         "Producto": "Mouse",
-        "Nombre": "BASILISK V3 PRO"
+        "Nombre": "BASILISK V3 PRO",
+        "Precio": "--"
       }
     }, {
       "id": "3",
       "datos": {
         "Marca": "VSG",
         "Producto": "Mouse",
-        "Nombre": "Aurora"
+        "Nombre": "Aurora",
+        "Precio": "--"
       }
     }, {
       "id": "4",
       "datos": {
         "Marca": "VSG",
         "Producto": "Mouse",
-        "Nombre": "Aquila"
+        "Nombre": "Aquila",
+        "Precio": "--"
       }
     }, {
       "id": "5",
       "datos": {
         "Marca": "VSG",
         "Producto": "Teclado",
-        "Nombre": "Quasar"
+        "Nombre": "Quasar",
+        "Precio": "--"
       }
     }, {
       "id": "6",
       "datos": {
         "Marca": "Nisuta",
         "Producto": "Teclado",
-        "Nombre": "nskbgz88"
+        "Nombre": "nskbgz88",
+        "Precio": "--"
       }
     }, {
       "id": "7",
       "datos": {
         "Marca": "Hyper X",
         "Producto": "Teclado",
-        "Nombre": "Alloy FPS Core"
+        "Nombre": "Alloy FPS Core",
+        "Precio": "--"
       }
     },{
       "id": "8",
       "datos": {
         "Marca": "ReDragon",
         "Producto": "Teclado",
-        "Nombre": "Deimos"
+        "Nombre": "Deimos",
+        "Precio": "--"
       }
     },{
       "id": "9",
       "datos": {
         "Marca": "ReDragon",
         "Producto": "Teclado",
-        "Nombre": "Kumara"
+        "Nombre": "Kumara",
+        "Precio": "--"
       }
     },{
       "id": "10",
       "datos": {
         "Marca": "Logitech",
         "Producto": "Teclado",
-        "Nombre": "G413 SE"
+        "Nombre": "G413 SE",
+        "Precio": "--"
       }
     },{
       "id": "11",
       "datos": {
         "Marca": "Logitech",
         "Producto": "Teclado",
-        "Nombre": "G915"
+        "Nombre": "G915",
+        "Precio": "--"
       }
     },{
       "id": "12",
       "datos": {
         "Marca": "Logitech",
         "Producto": "Teclado",
-        "Nombre": "K380"
+        "Nombre": "K380",
+        "Precio": "--"
       }
     },{
       "id": "13",
       "datos": {
         "Marca": "Logitech",
         "Producto": "MousePad",
-        "Nombre": "G240"
+        "Nombre": "G240",
+        "Precio": "--"
       }
     },{
       "id": "14",
       "datos": {
         "Marca": "ReDragon",
         "Producto": "Headset",
-        "Nombre": "Zeus"
+        "Nombre": "Zeus",
+        "Precio": "--"
       }
     },{
       "id": "15",
       "datos": {
         "Marca": "Logitech",
         "Producto": "MousePad",
-        "Nombre": "G240"
+        "Nombre": "G240",
+        "Precio": "--"
       }
     },{
       "id": "16",
       "datos": {
         "Marca": "Logitech",
         "Producto": "Headset",
-        "Nombre": "G733"
+        "Nombre": "G733",
+        "Precio": "--"
       }
     },{
       "id": "17",
       "datos": {
         "Marca": "Logitech",
         "Producto": "Mouse",
-        "Nombre": "GPRO"
+        "Nombre": "GPRO",
+        "Precio": "--"
       }
     },{
       "id": "18",
       "datos": {
         "Marca": "Hyper X",
         "Producto": "Microfono",
-        "Nombre": "Quad" 
+        "Nombre": "Quad",
+        "Precio": "--" 
       }
     },{
       "id": "19",
       "datos": {
         "Marca": "Logitech",
         "Producto": "Mouse",
-        "Nombre": "G305" 
+        "Nombre": "G305",
+        "Precio": "--"
       }
     },{
       "id": "20",
       "datos": {
         "Marca": "Zowie",
         "Producto": "Monitor",
-        "Nombre": "Rl2455" 
+        "Nombre": "Rl2455",
+        "Precio": "--" 
       }
     },{
       "id": "21",
       "datos": {
         "Marca": "Zowie",
         "Producto": "Monitor",
-        "Nombre": "XL2411K  " 
+        "Nombre": "XL2411K",
+        "Precio": "--" 
       }
     },{
       "id": "22",
       "datos": {
         "Marca": "Hyper X",
         "Producto": "Mouse",
-        "Nombre": "Pulse Fires" 
+        "Nombre": "Pulse Fires",
+        "Precio": "--" 
       }
     }
-    
   ]
 }
