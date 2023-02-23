@@ -193,7 +193,7 @@
     </table>
     <script>
       function showTable(){
-        fetch("http://127.0.0.1:5500/productos.json")
+        fetch("productos.json")
           .then(response => response.json())
           .then(data => createTable(data));
       }   
